@@ -1,0 +1,5 @@
+manuia_app:
+    resource: "@ManuiaAppBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
