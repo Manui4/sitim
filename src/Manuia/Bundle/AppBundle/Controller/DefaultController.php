@@ -11,17 +11,12 @@ class DefaultController extends Controller
 {
 
     /**
-     * @Route("/")
      * @Template()
      */
     public function indexAction()
     {
         $client = new Client();
         $client->authenticate('141470a4ad4f036bd8e23024e0c62c7d58654ba4', Client::AUTH_HTTP_TOKEN);
-
-
-
-
         $issues = [];
         $max_pages = 10;
         for ($i = 1; $i <= $max_pages; ++$i) {
