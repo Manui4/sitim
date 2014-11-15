@@ -1,5 +1,4 @@
 manuia_app:
-    resource: "@ManuiaAppBundle/Controller/"
-    type:     annotation
+    resource: "@ManuiaAppBundle/Resources/config/routing.yml"
     prefix:   /
 

@@ -1,13 +1,27 @@
+{% import "ManuiaAppBundle:Paginator:pagination.html.twig" as paginator %}
+{% if form is defined %}
+    {% form_theme form 'ManuiaAppBundle:Form:form_row.html.twig' %}
+{% endif %}
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <meta charset="UTF-8" />
-        <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>{% block title %}{% endblock %} Small Issues Tracker Interface Manager</title>
+
+
+        {% block stylesheets %}
+            <link rel="stylesheet" type="text/css" href="{{ asset("/bundles/manuiaapp/css/style.css") }}">
+        {% endblock %}
     </head>
     <body>
-        {% block body %}{% endblock %}
+        <div class="container">
+            {% block body %}{% endblock %}
+        </div>
         {% block javascripts %}{% endblock %}
     </body>
 </html>

@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+// ----------------------
+// == Site settings
+// ----------------------
+
+// Html 5 Element
+$audio-canvas-video: false; // True | False
+
+// Fonts
+$font1: "PT Sans", Arial, Helvetica, sans-serif;
+$font2: "Kreon", serif;
+
+$line-height-base: 1.5em;
+$font-size-base: 16px;
+$margin-bottom-headline: 1.5rem;
+$line-height-base-nounit: 1.5;
+$font-size-base-nounit: 16;
+$margin-bottom-headline: 1.5rem;
+
+
+// = Colors
+// -----------------------------
+
+// Graphic chart
+$color-blue: #508fb7;
+$color-dark: #343232;
+$color-lgreen: #23c48f;
+$color-orange: #f59755;
+$color-grey-orange: #f5ebe4;
+$color-white: #ffffff;
+$color-grey-chart: #bdb4b1;
+$color-green: #508f4d;
+$color-yellow: #d5d57f;
+$color-pink: #ec3f5c; 
+$color-turquoise: #1abc9c;
+$color-emerald: #2ecc71;
+$color-peter-river: #3498db;
+$color-amethyst: #9b59b6;
+$color-wet-asphalt: #34495e;
+$color-green-sea: #16a085;
+$color-nephritis: #27ae60;
+$color-belize-hole: #2980b9;
+$color-wisteria: #8e44ad;
+$color-midnight-blue: #2c3e50;
+$color-sun-flower: #f1c40f;
+$color-carrot: #e67e22;
+$color-alizarin: #e74c3c;
+$color-clouds: #ecf0f1;
+$color-concrete: #95a5a6;
+$color-flat-orange: #f39c12;
+$color-pumpkin: #d35400;
+$color-pomegranate: #c0392b;
+$color-silver: #bdc3c7;
+$color-asbestos: #7f8c8d;
+$color-bg-twitter: #333;
+$color-broken-white: #e1e1e1;
+$color-grey: #7a7a7a;
+
+$form-colors: ( 
+    blue: $color-blue,
+    orange: $color-orange,
+    pink: $color-pink,
+    yellow: $color-yellow,
+    green: $color-green,
+    grey: $color-grey,
+    turquoise: $color-turquoise,
+    emerald: $color-emerald,
+    peter-river: $color-peter-river,
+);
+
+$colors: ( 
+    blue: $color-blue,
+    orange: $color-orange,
+    pink: $color-pink,
+    yellow: $color-yellow,
+    green: $color-green,
+    lgreen: $color-lgreen,
+    white: $color-white,
+    grey: $color-grey,
+    turquoise: $color-turquoise,
+    emerald: $color-emerald,
+    peter-river: $color-peter-river,
+    amethyst: $color-amethyst,
+    wet-asphalt: $color-wet-asphalt,
+    green-sea: $color-green-sea,
+    nephritis: $color-nephritis,
+    belize-hole: $color-belize-hole,
+    wisteria: $color-wisteria,
+    midnight-blue: $color-midnight-blue,
+    sun-flower: $color-sun-flower,
+    carrot: $color-carrot,
+    alizarin: $color-alizarin,
+    clouds: $color-clouds,
+    concrete: $color-concrete,
+    flat-orange: $color-flat-orange,
+    pumpkin: $color-pumpkin,
+    pomegranate: $color-pomegranate,
+    silver: $color-silver,
+    asbestos: $color-asbestos,
+    bg-twitter: $color-bg-twitter,
+    broken-white: $color-broken-white,
+);
+
+// = Grid / Responsive
+// -----------------------------
+$columns: 12!default;
+$gutter: 20px!default;
+$width-device-s : 368px !default;
+$width-device-m : 768px !default;
+$width-device-l : 1200px !default;
+
+// Max width wrapper
+$wrapper-width: pxtoem(1200, 16);
+
+// = Prefix
+// -----------------------------
+
+$prefix-for-webkit:    true !default;
+$prefix-for-mozilla:   true !default;
+$prefix-for-microsoft: true !default;
+$prefix-for-opera:     true !default;
+$prefix-for-spec:      true !default; // required for keyframe mixin
+
+// = Transition Duration
+// -----------------------------
+$default-transition-duration: 0.3s;

@@ -1,0 +1,14 @@
+parameters:
+#    acme_blog.example.class: Acme\BlogBundle\Example
+
+services:
+    twig.extension.timeago:
+        class: Manuia\Bundle\AppBundle\Twig\Extension\TimeAgoExtension
+        arguments: ["@translator"]
+        tags:
+          - { name: twig.extension }
+
+    twig.extension.gravatar:
+        class: Manuia\Bundle\AppBundle\Twig\Extension\GravatarExtension
+        tags:
+            - { name: twig.extension }
