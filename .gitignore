@@ -42,3 +42,6 @@
 # Ignore vi backups
 *.*~
 *~
+
+# Compass files
+src/Manuia/Bundle/AppBundle/Resources/compass/.sass-cache

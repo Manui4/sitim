@@ -663,7 +663,7 @@ input, textarea, button, select {
 .blue .wrapper-textarea,
 .blue .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .form-input, .blue .wrapper-textarea .form-textarea, .orange .wrapper-input .blue .form-input, .orange .wrapper-textarea .blue .form-textarea, .pink .wrapper-input .blue .form-input, .pink .wrapper-textarea .blue .form-textarea, .yellow .wrapper-input .blue .form-input, .yellow .wrapper-textarea .blue .form-textarea, .green .wrapper-input .blue .form-input, .green .wrapper-textarea .blue .form-textarea, .gray .wrapper-input .blue .form-input, .gray .wrapper-textarea .blue .form-textarea, .turquoise .wrapper-input .blue .form-input, .turquoise .wrapper-textarea .blue .form-textarea, .emerald .wrapper-input .blue .form-input, .emerald .wrapper-textarea .blue .form-textarea, .peter-river .wrapper-input .blue .form-input, .peter-river .wrapper-textarea .blue .form-textarea {
+.blue .wrapper-input .form-input, .blue .wrapper-textarea .form-textarea, .orange .wrapper-input .blue .form-input, .orange .wrapper-textarea .blue .form-textarea, .pink .wrapper-input .blue .form-input, .pink .wrapper-textarea .blue .form-textarea, .yellow .wrapper-input .blue .form-input, .yellow .wrapper-textarea .blue .form-textarea, .green .wrapper-input .blue .form-input, .green .wrapper-textarea .blue .form-textarea, .grey .wrapper-input .blue .form-input, .grey .wrapper-textarea .blue .form-textarea, .turquoise .wrapper-input .blue .form-input, .turquoise .wrapper-textarea .blue .form-textarea, .emerald .wrapper-input .blue .form-input, .emerald .wrapper-textarea .blue .form-textarea, .peter-river .wrapper-input .blue .form-input, .peter-river .wrapper-textarea .blue .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -681,7 +681,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .form-input:focus, .blue .wrapper-textarea .form-textarea:focus, .orange .wrapper-input .blue .form-input:focus, .orange .wrapper-textarea .blue .form-textarea:focus, .pink .wrapper-input .blue .form-input:focus, .pink .wrapper-textarea .blue .form-textarea:focus, .yellow .wrapper-input .blue .form-input:focus, .yellow .wrapper-textarea .blue .form-textarea:focus, .green .wrapper-input .blue .form-input:focus, .green .wrapper-textarea .blue .form-textarea:focus, .gray .wrapper-input .blue .form-input:focus, .gray .wrapper-textarea .blue .form-textarea:focus, .turquoise .wrapper-input .blue .form-input:focus, .turquoise .wrapper-textarea .blue .form-textarea:focus, .emerald .wrapper-input .blue .form-input:focus, .emerald .wrapper-textarea .blue .form-textarea:focus, .peter-river .wrapper-input .blue .form-input:focus, .peter-river .wrapper-textarea .blue .form-textarea:focus {
+  .blue .wrapper-input .form-input:focus, .blue .wrapper-textarea .form-textarea:focus, .orange .wrapper-input .blue .form-input:focus, .orange .wrapper-textarea .blue .form-textarea:focus, .pink .wrapper-input .blue .form-input:focus, .pink .wrapper-textarea .blue .form-textarea:focus, .yellow .wrapper-input .blue .form-input:focus, .yellow .wrapper-textarea .blue .form-textarea:focus, .green .wrapper-input .blue .form-input:focus, .green .wrapper-textarea .blue .form-textarea:focus, .grey .wrapper-input .blue .form-input:focus, .grey .wrapper-textarea .blue .form-textarea:focus, .turquoise .wrapper-input .blue .form-input:focus, .turquoise .wrapper-textarea .blue .form-textarea:focus, .emerald .wrapper-input .blue .form-input:focus, .emerald .wrapper-textarea .blue .form-textarea:focus, .peter-river .wrapper-input .blue .form-input:focus, .peter-river .wrapper-textarea .blue .form-textarea:focus {
     border-top: 5px solid #508fb7; }
 .blue .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -755,7 +755,7 @@ input, textarea, button, select {
 .orange .wrapper-textarea,
 .orange .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .orange .form-input, .blue .wrapper-textarea .orange .form-textarea, .orange .wrapper-input .form-input, .orange .wrapper-textarea .form-textarea, .pink .wrapper-input .orange .form-input, .pink .wrapper-textarea .orange .form-textarea, .yellow .wrapper-input .orange .form-input, .yellow .wrapper-textarea .orange .form-textarea, .green .wrapper-input .orange .form-input, .green .wrapper-textarea .orange .form-textarea, .gray .wrapper-input .orange .form-input, .gray .wrapper-textarea .orange .form-textarea, .turquoise .wrapper-input .orange .form-input, .turquoise .wrapper-textarea .orange .form-textarea, .emerald .wrapper-input .orange .form-input, .emerald .wrapper-textarea .orange .form-textarea, .peter-river .wrapper-input .orange .form-input, .peter-river .wrapper-textarea .orange .form-textarea {
+.blue .wrapper-input .orange .form-input, .blue .wrapper-textarea .orange .form-textarea, .orange .wrapper-input .form-input, .orange .wrapper-textarea .form-textarea, .pink .wrapper-input .orange .form-input, .pink .wrapper-textarea .orange .form-textarea, .yellow .wrapper-input .orange .form-input, .yellow .wrapper-textarea .orange .form-textarea, .green .wrapper-input .orange .form-input, .green .wrapper-textarea .orange .form-textarea, .grey .wrapper-input .orange .form-input, .grey .wrapper-textarea .orange .form-textarea, .turquoise .wrapper-input .orange .form-input, .turquoise .wrapper-textarea .orange .form-textarea, .emerald .wrapper-input .orange .form-input, .emerald .wrapper-textarea .orange .form-textarea, .peter-river .wrapper-input .orange .form-input, .peter-river .wrapper-textarea .orange .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -773,7 +773,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .orange .form-input:focus, .blue .wrapper-textarea .orange .form-textarea:focus, .orange .wrapper-input .form-input:focus, .orange .wrapper-textarea .form-textarea:focus, .pink .wrapper-input .orange .form-input:focus, .pink .wrapper-textarea .orange .form-textarea:focus, .yellow .wrapper-input .orange .form-input:focus, .yellow .wrapper-textarea .orange .form-textarea:focus, .green .wrapper-input .orange .form-input:focus, .green .wrapper-textarea .orange .form-textarea:focus, .gray .wrapper-input .orange .form-input:focus, .gray .wrapper-textarea .orange .form-textarea:focus, .turquoise .wrapper-input .orange .form-input:focus, .turquoise .wrapper-textarea .orange .form-textarea:focus, .emerald .wrapper-input .orange .form-input:focus, .emerald .wrapper-textarea .orange .form-textarea:focus, .peter-river .wrapper-input .orange .form-input:focus, .peter-river .wrapper-textarea .orange .form-textarea:focus {
+  .blue .wrapper-input .orange .form-input:focus, .blue .wrapper-textarea .orange .form-textarea:focus, .orange .wrapper-input .form-input:focus, .orange .wrapper-textarea .form-textarea:focus, .pink .wrapper-input .orange .form-input:focus, .pink .wrapper-textarea .orange .form-textarea:focus, .yellow .wrapper-input .orange .form-input:focus, .yellow .wrapper-textarea .orange .form-textarea:focus, .green .wrapper-input .orange .form-input:focus, .green .wrapper-textarea .orange .form-textarea:focus, .grey .wrapper-input .orange .form-input:focus, .grey .wrapper-textarea .orange .form-textarea:focus, .turquoise .wrapper-input .orange .form-input:focus, .turquoise .wrapper-textarea .orange .form-textarea:focus, .emerald .wrapper-input .orange .form-input:focus, .emerald .wrapper-textarea .orange .form-textarea:focus, .peter-river .wrapper-input .orange .form-input:focus, .peter-river .wrapper-textarea .orange .form-textarea:focus {
     border-top: 5px solid #f59755; }
 .orange .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -847,7 +847,7 @@ input, textarea, button, select {
 .pink .wrapper-textarea,
 .pink .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .pink .form-input, .blue .wrapper-textarea .pink .form-textarea, .orange .wrapper-input .pink .form-input, .orange .wrapper-textarea .pink .form-textarea, .pink .wrapper-input .form-input, .pink .wrapper-textarea .form-textarea, .yellow .wrapper-input .pink .form-input, .yellow .wrapper-textarea .pink .form-textarea, .green .wrapper-input .pink .form-input, .green .wrapper-textarea .pink .form-textarea, .gray .wrapper-input .pink .form-input, .gray .wrapper-textarea .pink .form-textarea, .turquoise .wrapper-input .pink .form-input, .turquoise .wrapper-textarea .pink .form-textarea, .emerald .wrapper-input .pink .form-input, .emerald .wrapper-textarea .pink .form-textarea, .peter-river .wrapper-input .pink .form-input, .peter-river .wrapper-textarea .pink .form-textarea {
+.blue .wrapper-input .pink .form-input, .blue .wrapper-textarea .pink .form-textarea, .orange .wrapper-input .pink .form-input, .orange .wrapper-textarea .pink .form-textarea, .pink .wrapper-input .form-input, .pink .wrapper-textarea .form-textarea, .yellow .wrapper-input .pink .form-input, .yellow .wrapper-textarea .pink .form-textarea, .green .wrapper-input .pink .form-input, .green .wrapper-textarea .pink .form-textarea, .grey .wrapper-input .pink .form-input, .grey .wrapper-textarea .pink .form-textarea, .turquoise .wrapper-input .pink .form-input, .turquoise .wrapper-textarea .pink .form-textarea, .emerald .wrapper-input .pink .form-input, .emerald .wrapper-textarea .pink .form-textarea, .peter-river .wrapper-input .pink .form-input, .peter-river .wrapper-textarea .pink .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -865,7 +865,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .pink .form-input:focus, .blue .wrapper-textarea .pink .form-textarea:focus, .orange .wrapper-input .pink .form-input:focus, .orange .wrapper-textarea .pink .form-textarea:focus, .pink .wrapper-input .form-input:focus, .pink .wrapper-textarea .form-textarea:focus, .yellow .wrapper-input .pink .form-input:focus, .yellow .wrapper-textarea .pink .form-textarea:focus, .green .wrapper-input .pink .form-input:focus, .green .wrapper-textarea .pink .form-textarea:focus, .gray .wrapper-input .pink .form-input:focus, .gray .wrapper-textarea .pink .form-textarea:focus, .turquoise .wrapper-input .pink .form-input:focus, .turquoise .wrapper-textarea .pink .form-textarea:focus, .emerald .wrapper-input .pink .form-input:focus, .emerald .wrapper-textarea .pink .form-textarea:focus, .peter-river .wrapper-input .pink .form-input:focus, .peter-river .wrapper-textarea .pink .form-textarea:focus {
+  .blue .wrapper-input .pink .form-input:focus, .blue .wrapper-textarea .pink .form-textarea:focus, .orange .wrapper-input .pink .form-input:focus, .orange .wrapper-textarea .pink .form-textarea:focus, .pink .wrapper-input .form-input:focus, .pink .wrapper-textarea .form-textarea:focus, .yellow .wrapper-input .pink .form-input:focus, .yellow .wrapper-textarea .pink .form-textarea:focus, .green .wrapper-input .pink .form-input:focus, .green .wrapper-textarea .pink .form-textarea:focus, .grey .wrapper-input .pink .form-input:focus, .grey .wrapper-textarea .pink .form-textarea:focus, .turquoise .wrapper-input .pink .form-input:focus, .turquoise .wrapper-textarea .pink .form-textarea:focus, .emerald .wrapper-input .pink .form-input:focus, .emerald .wrapper-textarea .pink .form-textarea:focus, .peter-river .wrapper-input .pink .form-input:focus, .peter-river .wrapper-textarea .pink .form-textarea:focus {
     border-top: 5px solid #ec3f5c; }
 .pink .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -939,7 +939,7 @@ input, textarea, button, select {
 .yellow .wrapper-textarea,
 .yellow .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .yellow .form-input, .blue .wrapper-textarea .yellow .form-textarea, .orange .wrapper-input .yellow .form-input, .orange .wrapper-textarea .yellow .form-textarea, .pink .wrapper-input .yellow .form-input, .pink .wrapper-textarea .yellow .form-textarea, .yellow .wrapper-input .form-input, .yellow .wrapper-textarea .form-textarea, .green .wrapper-input .yellow .form-input, .green .wrapper-textarea .yellow .form-textarea, .gray .wrapper-input .yellow .form-input, .gray .wrapper-textarea .yellow .form-textarea, .turquoise .wrapper-input .yellow .form-input, .turquoise .wrapper-textarea .yellow .form-textarea, .emerald .wrapper-input .yellow .form-input, .emerald .wrapper-textarea .yellow .form-textarea, .peter-river .wrapper-input .yellow .form-input, .peter-river .wrapper-textarea .yellow .form-textarea {
+.blue .wrapper-input .yellow .form-input, .blue .wrapper-textarea .yellow .form-textarea, .orange .wrapper-input .yellow .form-input, .orange .wrapper-textarea .yellow .form-textarea, .pink .wrapper-input .yellow .form-input, .pink .wrapper-textarea .yellow .form-textarea, .yellow .wrapper-input .form-input, .yellow .wrapper-textarea .form-textarea, .green .wrapper-input .yellow .form-input, .green .wrapper-textarea .yellow .form-textarea, .grey .wrapper-input .yellow .form-input, .grey .wrapper-textarea .yellow .form-textarea, .turquoise .wrapper-input .yellow .form-input, .turquoise .wrapper-textarea .yellow .form-textarea, .emerald .wrapper-input .yellow .form-input, .emerald .wrapper-textarea .yellow .form-textarea, .peter-river .wrapper-input .yellow .form-input, .peter-river .wrapper-textarea .yellow .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -957,7 +957,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .yellow .form-input:focus, .blue .wrapper-textarea .yellow .form-textarea:focus, .orange .wrapper-input .yellow .form-input:focus, .orange .wrapper-textarea .yellow .form-textarea:focus, .pink .wrapper-input .yellow .form-input:focus, .pink .wrapper-textarea .yellow .form-textarea:focus, .yellow .wrapper-input .form-input:focus, .yellow .wrapper-textarea .form-textarea:focus, .green .wrapper-input .yellow .form-input:focus, .green .wrapper-textarea .yellow .form-textarea:focus, .gray .wrapper-input .yellow .form-input:focus, .gray .wrapper-textarea .yellow .form-textarea:focus, .turquoise .wrapper-input .yellow .form-input:focus, .turquoise .wrapper-textarea .yellow .form-textarea:focus, .emerald .wrapper-input .yellow .form-input:focus, .emerald .wrapper-textarea .yellow .form-textarea:focus, .peter-river .wrapper-input .yellow .form-input:focus, .peter-river .wrapper-textarea .yellow .form-textarea:focus {
+  .blue .wrapper-input .yellow .form-input:focus, .blue .wrapper-textarea .yellow .form-textarea:focus, .orange .wrapper-input .yellow .form-input:focus, .orange .wrapper-textarea .yellow .form-textarea:focus, .pink .wrapper-input .yellow .form-input:focus, .pink .wrapper-textarea .yellow .form-textarea:focus, .yellow .wrapper-input .form-input:focus, .yellow .wrapper-textarea .form-textarea:focus, .green .wrapper-input .yellow .form-input:focus, .green .wrapper-textarea .yellow .form-textarea:focus, .grey .wrapper-input .yellow .form-input:focus, .grey .wrapper-textarea .yellow .form-textarea:focus, .turquoise .wrapper-input .yellow .form-input:focus, .turquoise .wrapper-textarea .yellow .form-textarea:focus, .emerald .wrapper-input .yellow .form-input:focus, .emerald .wrapper-textarea .yellow .form-textarea:focus, .peter-river .wrapper-input .yellow .form-input:focus, .peter-river .wrapper-textarea .yellow .form-textarea:focus {
     border-top: 5px solid #d5d57f; }
 .yellow .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -1031,7 +1031,7 @@ input, textarea, button, select {
 .green .wrapper-textarea,
 .green .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .green .form-input, .blue .wrapper-textarea .green .form-textarea, .orange .wrapper-input .green .form-input, .orange .wrapper-textarea .green .form-textarea, .pink .wrapper-input .green .form-input, .pink .wrapper-textarea .green .form-textarea, .yellow .wrapper-input .green .form-input, .yellow .wrapper-textarea .green .form-textarea, .green .wrapper-input .form-input, .green .wrapper-textarea .form-textarea, .gray .wrapper-input .green .form-input, .gray .wrapper-textarea .green .form-textarea, .turquoise .wrapper-input .green .form-input, .turquoise .wrapper-textarea .green .form-textarea, .emerald .wrapper-input .green .form-input, .emerald .wrapper-textarea .green .form-textarea, .peter-river .wrapper-input .green .form-input, .peter-river .wrapper-textarea .green .form-textarea {
+.blue .wrapper-input .green .form-input, .blue .wrapper-textarea .green .form-textarea, .orange .wrapper-input .green .form-input, .orange .wrapper-textarea .green .form-textarea, .pink .wrapper-input .green .form-input, .pink .wrapper-textarea .green .form-textarea, .yellow .wrapper-input .green .form-input, .yellow .wrapper-textarea .green .form-textarea, .green .wrapper-input .form-input, .green .wrapper-textarea .form-textarea, .grey .wrapper-input .green .form-input, .grey .wrapper-textarea .green .form-textarea, .turquoise .wrapper-input .green .form-input, .turquoise .wrapper-textarea .green .form-textarea, .emerald .wrapper-input .green .form-input, .emerald .wrapper-textarea .green .form-textarea, .peter-river .wrapper-input .green .form-input, .peter-river .wrapper-textarea .green .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -1049,7 +1049,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .green .form-input:focus, .blue .wrapper-textarea .green .form-textarea:focus, .orange .wrapper-input .green .form-input:focus, .orange .wrapper-textarea .green .form-textarea:focus, .pink .wrapper-input .green .form-input:focus, .pink .wrapper-textarea .green .form-textarea:focus, .yellow .wrapper-input .green .form-input:focus, .yellow .wrapper-textarea .green .form-textarea:focus, .green .wrapper-input .form-input:focus, .green .wrapper-textarea .form-textarea:focus, .gray .wrapper-input .green .form-input:focus, .gray .wrapper-textarea .green .form-textarea:focus, .turquoise .wrapper-input .green .form-input:focus, .turquoise .wrapper-textarea .green .form-textarea:focus, .emerald .wrapper-input .green .form-input:focus, .emerald .wrapper-textarea .green .form-textarea:focus, .peter-river .wrapper-input .green .form-input:focus, .peter-river .wrapper-textarea .green .form-textarea:focus {
+  .blue .wrapper-input .green .form-input:focus, .blue .wrapper-textarea .green .form-textarea:focus, .orange .wrapper-input .green .form-input:focus, .orange .wrapper-textarea .green .form-textarea:focus, .pink .wrapper-input .green .form-input:focus, .pink .wrapper-textarea .green .form-textarea:focus, .yellow .wrapper-input .green .form-input:focus, .yellow .wrapper-textarea .green .form-textarea:focus, .green .wrapper-input .form-input:focus, .green .wrapper-textarea .form-textarea:focus, .grey .wrapper-input .green .form-input:focus, .grey .wrapper-textarea .green .form-textarea:focus, .turquoise .wrapper-input .green .form-input:focus, .turquoise .wrapper-textarea .green .form-textarea:focus, .emerald .wrapper-input .green .form-input:focus, .emerald .wrapper-textarea .green .form-textarea:focus, .peter-river .wrapper-input .green .form-input:focus, .peter-river .wrapper-textarea .green .form-textarea:focus {
     border-top: 5px solid #508f4d; }
 .green .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -1118,12 +1118,12 @@ input, textarea, button, select {
     right: 0;
     top: 0; }
 
-.gray .wrapper-select,
-.gray .wrapper-checkbox,
-.gray .wrapper-textarea,
-.gray .wrapper-input {
+.grey .wrapper-select,
+.grey .wrapper-checkbox,
+.grey .wrapper-textarea,
+.grey .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .gray .form-input, .blue .wrapper-textarea .gray .form-textarea, .orange .wrapper-input .gray .form-input, .orange .wrapper-textarea .gray .form-textarea, .pink .wrapper-input .gray .form-input, .pink .wrapper-textarea .gray .form-textarea, .yellow .wrapper-input .gray .form-input, .yellow .wrapper-textarea .gray .form-textarea, .green .wrapper-input .gray .form-input, .green .wrapper-textarea .gray .form-textarea, .gray .wrapper-input .form-input, .gray .wrapper-textarea .form-textarea, .turquoise .wrapper-input .gray .form-input, .turquoise .wrapper-textarea .gray .form-textarea, .emerald .wrapper-input .gray .form-input, .emerald .wrapper-textarea .gray .form-textarea, .peter-river .wrapper-input .gray .form-input, .peter-river .wrapper-textarea .gray .form-textarea {
+.blue .wrapper-input .grey .form-input, .blue .wrapper-textarea .grey .form-textarea, .orange .wrapper-input .grey .form-input, .orange .wrapper-textarea .grey .form-textarea, .pink .wrapper-input .grey .form-input, .pink .wrapper-textarea .grey .form-textarea, .yellow .wrapper-input .grey .form-input, .yellow .wrapper-textarea .grey .form-textarea, .green .wrapper-input .grey .form-input, .green .wrapper-textarea .grey .form-textarea, .grey .wrapper-input .form-input, .grey .wrapper-textarea .form-textarea, .turquoise .wrapper-input .grey .form-input, .turquoise .wrapper-textarea .grey .form-textarea, .emerald .wrapper-input .grey .form-input, .emerald .wrapper-textarea .grey .form-textarea, .peter-river .wrapper-input .grey .form-input, .peter-river .wrapper-textarea .grey .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -1141,11 +1141,11 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .gray .form-input:focus, .blue .wrapper-textarea .gray .form-textarea:focus, .orange .wrapper-input .gray .form-input:focus, .orange .wrapper-textarea .gray .form-textarea:focus, .pink .wrapper-input .gray .form-input:focus, .pink .wrapper-textarea .gray .form-textarea:focus, .yellow .wrapper-input .gray .form-input:focus, .yellow .wrapper-textarea .gray .form-textarea:focus, .green .wrapper-input .gray .form-input:focus, .green .wrapper-textarea .gray .form-textarea:focus, .gray .wrapper-input .form-input:focus, .gray .wrapper-textarea .form-textarea:focus, .turquoise .wrapper-input .gray .form-input:focus, .turquoise .wrapper-textarea .gray .form-textarea:focus, .emerald .wrapper-input .gray .form-input:focus, .emerald .wrapper-textarea .gray .form-textarea:focus, .peter-river .wrapper-input .gray .form-input:focus, .peter-river .wrapper-textarea .gray .form-textarea:focus {
+  .blue .wrapper-input .grey .form-input:focus, .blue .wrapper-textarea .grey .form-textarea:focus, .orange .wrapper-input .grey .form-input:focus, .orange .wrapper-textarea .grey .form-textarea:focus, .pink .wrapper-input .grey .form-input:focus, .pink .wrapper-textarea .grey .form-textarea:focus, .yellow .wrapper-input .grey .form-input:focus, .yellow .wrapper-textarea .grey .form-textarea:focus, .green .wrapper-input .grey .form-input:focus, .green .wrapper-textarea .grey .form-textarea:focus, .grey .wrapper-input .form-input:focus, .grey .wrapper-textarea .form-textarea:focus, .turquoise .wrapper-input .grey .form-input:focus, .turquoise .wrapper-textarea .grey .form-textarea:focus, .emerald .wrapper-input .grey .form-input:focus, .emerald .wrapper-textarea .grey .form-textarea:focus, .peter-river .wrapper-input .grey .form-input:focus, .peter-river .wrapper-textarea .grey .form-textarea:focus {
     border-top: 5px solid #7a7a7a; }
-.gray .wrapper-textarea .form-textarea {
+.grey .wrapper-textarea .form-textarea {
   height: 9em; }
-.gray .wrapper-checkbox .form-checkbox[type="checkbox"] {
+.grey .wrapper-checkbox .form-checkbox[type="checkbox"] {
   border: 0 none;
   clip: rect(0px, 0px, 0px, 0px);
   height: 0;
@@ -1154,17 +1154,17 @@ input, textarea, button, select {
   padding: 0;
   position: absolute;
   width: 1px; }
-.gray .wrapper-checkbox label.checkbox {
+.grey .wrapper-checkbox label.checkbox {
   background-image: url("/bundles/manmanuia/images/checkbox.png");
   width: 100%;
   height: 20px;
   display: block;
   cursor: pointer; }
-.gray .wrapper-checkbox input.form-checkbox[type="checkbox"] + label.checkbox.required:after {
+.grey .wrapper-checkbox input.form-checkbox[type="checkbox"] + label.checkbox.required:after {
   content: ''; }
-.gray .wrapper-checkbox input.form-checkbox[type="checkbox"]:checked + label.checkbox {
+.grey .wrapper-checkbox input.form-checkbox[type="checkbox"]:checked + label.checkbox {
   background-position: 0 -20px; }
-.gray .wrapper-checkbox input.form-checkbox[type="checkbox"] + label.checkbox {
+.grey .wrapper-checkbox input.form-checkbox[type="checkbox"] + label.checkbox {
   background-position: 0 0;
   background-repeat: no-repeat;
   cursor: pointer;
@@ -1172,13 +1172,13 @@ input, textarea, button, select {
   line-height: 1.5em;
   padding: 0 1.5em;
   vertical-align: middle; }
-.gray .wrapper-select .form-select {
+.grey .wrapper-select .form-select {
   position: relative;
   display: inline-block;
   width: 100%;
   line-height: 1.5em;
   color: #7a7a7a; }
-  .gray .wrapper-select .form-select .form-control {
+  .grey .wrapper-select .form-select .form-control {
     background-color: #fff;
     background-image: none;
     padding: 10px 0 10px 30px;
@@ -1188,14 +1188,14 @@ input, textarea, button, select {
     -o-transition-duration: 0.3s;
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s; }
-    .gray .wrapper-select .form-select .form-control:focus {
+    .grey .wrapper-select .form-select .form-control:focus {
       border-color: #7a7a7a; }
-    .gray .wrapper-select .form-select .form-control option {
+    .grey .wrapper-select .form-select .form-control option {
       line-height: 1.5em;
       font-family: "Open Sans", sans-serif; }
-      .gray .wrapper-select .form-select .form-control option:focus {
+      .grey .wrapper-select .form-select .form-control option:focus {
         border-color: #7a7a7a; }
-  .gray .wrapper-select .form-select:after {
+  .grey .wrapper-select .form-select:after {
     background: none repeat scroll 0 0 #ffffff;
     border-bottom: 2px solid #d9d9d9;
     border-right: 2px solid #d9d9d9;
@@ -1215,7 +1215,7 @@ input, textarea, button, select {
 .turquoise .wrapper-textarea,
 .turquoise .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .turquoise .form-input, .blue .wrapper-textarea .turquoise .form-textarea, .orange .wrapper-input .turquoise .form-input, .orange .wrapper-textarea .turquoise .form-textarea, .pink .wrapper-input .turquoise .form-input, .pink .wrapper-textarea .turquoise .form-textarea, .yellow .wrapper-input .turquoise .form-input, .yellow .wrapper-textarea .turquoise .form-textarea, .green .wrapper-input .turquoise .form-input, .green .wrapper-textarea .turquoise .form-textarea, .gray .wrapper-input .turquoise .form-input, .gray .wrapper-textarea .turquoise .form-textarea, .turquoise .wrapper-input .form-input, .turquoise .wrapper-textarea .form-textarea, .emerald .wrapper-input .turquoise .form-input, .emerald .wrapper-textarea .turquoise .form-textarea, .peter-river .wrapper-input .turquoise .form-input, .peter-river .wrapper-textarea .turquoise .form-textarea {
+.blue .wrapper-input .turquoise .form-input, .blue .wrapper-textarea .turquoise .form-textarea, .orange .wrapper-input .turquoise .form-input, .orange .wrapper-textarea .turquoise .form-textarea, .pink .wrapper-input .turquoise .form-input, .pink .wrapper-textarea .turquoise .form-textarea, .yellow .wrapper-input .turquoise .form-input, .yellow .wrapper-textarea .turquoise .form-textarea, .green .wrapper-input .turquoise .form-input, .green .wrapper-textarea .turquoise .form-textarea, .grey .wrapper-input .turquoise .form-input, .grey .wrapper-textarea .turquoise .form-textarea, .turquoise .wrapper-input .form-input, .turquoise .wrapper-textarea .form-textarea, .emerald .wrapper-input .turquoise .form-input, .emerald .wrapper-textarea .turquoise .form-textarea, .peter-river .wrapper-input .turquoise .form-input, .peter-river .wrapper-textarea .turquoise .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -1233,7 +1233,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .turquoise .form-input:focus, .blue .wrapper-textarea .turquoise .form-textarea:focus, .orange .wrapper-input .turquoise .form-input:focus, .orange .wrapper-textarea .turquoise .form-textarea:focus, .pink .wrapper-input .turquoise .form-input:focus, .pink .wrapper-textarea .turquoise .form-textarea:focus, .yellow .wrapper-input .turquoise .form-input:focus, .yellow .wrapper-textarea .turquoise .form-textarea:focus, .green .wrapper-input .turquoise .form-input:focus, .green .wrapper-textarea .turquoise .form-textarea:focus, .gray .wrapper-input .turquoise .form-input:focus, .gray .wrapper-textarea .turquoise .form-textarea:focus, .turquoise .wrapper-input .form-input:focus, .turquoise .wrapper-textarea .form-textarea:focus, .emerald .wrapper-input .turquoise .form-input:focus, .emerald .wrapper-textarea .turquoise .form-textarea:focus, .peter-river .wrapper-input .turquoise .form-input:focus, .peter-river .wrapper-textarea .turquoise .form-textarea:focus {
+  .blue .wrapper-input .turquoise .form-input:focus, .blue .wrapper-textarea .turquoise .form-textarea:focus, .orange .wrapper-input .turquoise .form-input:focus, .orange .wrapper-textarea .turquoise .form-textarea:focus, .pink .wrapper-input .turquoise .form-input:focus, .pink .wrapper-textarea .turquoise .form-textarea:focus, .yellow .wrapper-input .turquoise .form-input:focus, .yellow .wrapper-textarea .turquoise .form-textarea:focus, .green .wrapper-input .turquoise .form-input:focus, .green .wrapper-textarea .turquoise .form-textarea:focus, .grey .wrapper-input .turquoise .form-input:focus, .grey .wrapper-textarea .turquoise .form-textarea:focus, .turquoise .wrapper-input .form-input:focus, .turquoise .wrapper-textarea .form-textarea:focus, .emerald .wrapper-input .turquoise .form-input:focus, .emerald .wrapper-textarea .turquoise .form-textarea:focus, .peter-river .wrapper-input .turquoise .form-input:focus, .peter-river .wrapper-textarea .turquoise .form-textarea:focus {
     border-top: 5px solid #1abc9c; }
 .turquoise .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -1307,7 +1307,7 @@ input, textarea, button, select {
 .emerald .wrapper-textarea,
 .emerald .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .emerald .form-input, .blue .wrapper-textarea .emerald .form-textarea, .orange .wrapper-input .emerald .form-input, .orange .wrapper-textarea .emerald .form-textarea, .pink .wrapper-input .emerald .form-input, .pink .wrapper-textarea .emerald .form-textarea, .yellow .wrapper-input .emerald .form-input, .yellow .wrapper-textarea .emerald .form-textarea, .green .wrapper-input .emerald .form-input, .green .wrapper-textarea .emerald .form-textarea, .gray .wrapper-input .emerald .form-input, .gray .wrapper-textarea .emerald .form-textarea, .turquoise .wrapper-input .emerald .form-input, .turquoise .wrapper-textarea .emerald .form-textarea, .emerald .wrapper-input .form-input, .emerald .wrapper-textarea .form-textarea, .peter-river .wrapper-input .emerald .form-input, .peter-river .wrapper-textarea .emerald .form-textarea {
+.blue .wrapper-input .emerald .form-input, .blue .wrapper-textarea .emerald .form-textarea, .orange .wrapper-input .emerald .form-input, .orange .wrapper-textarea .emerald .form-textarea, .pink .wrapper-input .emerald .form-input, .pink .wrapper-textarea .emerald .form-textarea, .yellow .wrapper-input .emerald .form-input, .yellow .wrapper-textarea .emerald .form-textarea, .green .wrapper-input .emerald .form-input, .green .wrapper-textarea .emerald .form-textarea, .grey .wrapper-input .emerald .form-input, .grey .wrapper-textarea .emerald .form-textarea, .turquoise .wrapper-input .emerald .form-input, .turquoise .wrapper-textarea .emerald .form-textarea, .emerald .wrapper-input .form-input, .emerald .wrapper-textarea .form-textarea, .peter-river .wrapper-input .emerald .form-input, .peter-river .wrapper-textarea .emerald .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -1325,7 +1325,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .emerald .form-input:focus, .blue .wrapper-textarea .emerald .form-textarea:focus, .orange .wrapper-input .emerald .form-input:focus, .orange .wrapper-textarea .emerald .form-textarea:focus, .pink .wrapper-input .emerald .form-input:focus, .pink .wrapper-textarea .emerald .form-textarea:focus, .yellow .wrapper-input .emerald .form-input:focus, .yellow .wrapper-textarea .emerald .form-textarea:focus, .green .wrapper-input .emerald .form-input:focus, .green .wrapper-textarea .emerald .form-textarea:focus, .gray .wrapper-input .emerald .form-input:focus, .gray .wrapper-textarea .emerald .form-textarea:focus, .turquoise .wrapper-input .emerald .form-input:focus, .turquoise .wrapper-textarea .emerald .form-textarea:focus, .emerald .wrapper-input .form-input:focus, .emerald .wrapper-textarea .form-textarea:focus, .peter-river .wrapper-input .emerald .form-input:focus, .peter-river .wrapper-textarea .emerald .form-textarea:focus {
+  .blue .wrapper-input .emerald .form-input:focus, .blue .wrapper-textarea .emerald .form-textarea:focus, .orange .wrapper-input .emerald .form-input:focus, .orange .wrapper-textarea .emerald .form-textarea:focus, .pink .wrapper-input .emerald .form-input:focus, .pink .wrapper-textarea .emerald .form-textarea:focus, .yellow .wrapper-input .emerald .form-input:focus, .yellow .wrapper-textarea .emerald .form-textarea:focus, .green .wrapper-input .emerald .form-input:focus, .green .wrapper-textarea .emerald .form-textarea:focus, .grey .wrapper-input .emerald .form-input:focus, .grey .wrapper-textarea .emerald .form-textarea:focus, .turquoise .wrapper-input .emerald .form-input:focus, .turquoise .wrapper-textarea .emerald .form-textarea:focus, .emerald .wrapper-input .form-input:focus, .emerald .wrapper-textarea .form-textarea:focus, .peter-river .wrapper-input .emerald .form-input:focus, .peter-river .wrapper-textarea .emerald .form-textarea:focus {
     border-top: 5px solid #2ecc71; }
 .emerald .wrapper-textarea .form-textarea {
   height: 9em; }
@@ -1399,7 +1399,7 @@ input, textarea, button, select {
 .peter-river .wrapper-textarea,
 .peter-river .wrapper-input {
   margin: 0 0 1.5em 0; }
-.blue .wrapper-input .peter-river .form-input, .blue .wrapper-textarea .peter-river .form-textarea, .orange .wrapper-input .peter-river .form-input, .orange .wrapper-textarea .peter-river .form-textarea, .pink .wrapper-input .peter-river .form-input, .pink .wrapper-textarea .peter-river .form-textarea, .yellow .wrapper-input .peter-river .form-input, .yellow .wrapper-textarea .peter-river .form-textarea, .green .wrapper-input .peter-river .form-input, .green .wrapper-textarea .peter-river .form-textarea, .gray .wrapper-input .peter-river .form-input, .gray .wrapper-textarea .peter-river .form-textarea, .turquoise .wrapper-input .peter-river .form-input, .turquoise .wrapper-textarea .peter-river .form-textarea, .emerald .wrapper-input .peter-river .form-input, .emerald .wrapper-textarea .peter-river .form-textarea, .peter-river .wrapper-input .form-input, .peter-river .wrapper-textarea .form-textarea {
+.blue .wrapper-input .peter-river .form-input, .blue .wrapper-textarea .peter-river .form-textarea, .orange .wrapper-input .peter-river .form-input, .orange .wrapper-textarea .peter-river .form-textarea, .pink .wrapper-input .peter-river .form-input, .pink .wrapper-textarea .peter-river .form-textarea, .yellow .wrapper-input .peter-river .form-input, .yellow .wrapper-textarea .peter-river .form-textarea, .green .wrapper-input .peter-river .form-input, .green .wrapper-textarea .peter-river .form-textarea, .grey .wrapper-input .peter-river .form-input, .grey .wrapper-textarea .peter-river .form-textarea, .turquoise .wrapper-input .peter-river .form-input, .turquoise .wrapper-textarea .peter-river .form-textarea, .emerald .wrapper-input .peter-river .form-input, .emerald .wrapper-textarea .peter-river .form-textarea, .peter-river .wrapper-input .form-input, .peter-river .wrapper-textarea .form-textarea {
   display: block;
   width: 100%;
   padding: 0.5em 1.5em;
@@ -1417,7 +1417,7 @@ input, textarea, button, select {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  .blue .wrapper-input .peter-river .form-input:focus, .blue .wrapper-textarea .peter-river .form-textarea:focus, .orange .wrapper-input .peter-river .form-input:focus, .orange .wrapper-textarea .peter-river .form-textarea:focus, .pink .wrapper-input .peter-river .form-input:focus, .pink .wrapper-textarea .peter-river .form-textarea:focus, .yellow .wrapper-input .peter-river .form-input:focus, .yellow .wrapper-textarea .peter-river .form-textarea:focus, .green .wrapper-input .peter-river .form-input:focus, .green .wrapper-textarea .peter-river .form-textarea:focus, .gray .wrapper-input .peter-river .form-input:focus, .gray .wrapper-textarea .peter-river .form-textarea:focus, .turquoise .wrapper-input .peter-river .form-input:focus, .turquoise .wrapper-textarea .peter-river .form-textarea:focus, .emerald .wrapper-input .peter-river .form-input:focus, .emerald .wrapper-textarea .peter-river .form-textarea:focus, .peter-river .wrapper-input .form-input:focus, .peter-river .wrapper-textarea .form-textarea:focus {
+  .blue .wrapper-input .peter-river .form-input:focus, .blue .wrapper-textarea .peter-river .form-textarea:focus, .orange .wrapper-input .peter-river .form-input:focus, .orange .wrapper-textarea .peter-river .form-textarea:focus, .pink .wrapper-input .peter-river .form-input:focus, .pink .wrapper-textarea .peter-river .form-textarea:focus, .yellow .wrapper-input .peter-river .form-input:focus, .yellow .wrapper-textarea .peter-river .form-textarea:focus, .green .wrapper-input .peter-river .form-input:focus, .green .wrapper-textarea .peter-river .form-textarea:focus, .grey .wrapper-input .peter-river .form-input:focus, .grey .wrapper-textarea .peter-river .form-textarea:focus, .turquoise .wrapper-input .peter-river .form-input:focus, .turquoise .wrapper-textarea .peter-river .form-textarea:focus, .emerald .wrapper-input .peter-river .form-input:focus, .emerald .wrapper-textarea .peter-river .form-textarea:focus, .peter-river .wrapper-input .form-input:focus, .peter-river .wrapper-textarea .form-textarea:focus {
     border-top: 5px solid #3498db; }
 .peter-river .wrapper-textarea .form-textarea {
   height: 9em; }
